@@ -64,11 +64,13 @@ Before running the agents, you need to obtain the required API keys:
   poetry shell
   ```
 ### Step-4: Run the application.
+**Note**: Port 8001, 8600 & 8080 should be open for the application to work smoothly, Ensure these ports are open before starting the application.
 * To run project and its agents:
 
   ```bash  
   python main.py
   ```
+
 Your application should start shortly. Now you have stream-lit app and the agents up and running 🎉.
 
 ## ✨Contributing
