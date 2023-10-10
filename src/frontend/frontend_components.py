@@ -169,7 +169,7 @@ email = st.sidebar.text_input("Want alert in your inbox?",key ="input_email" ,on
 
 
 
-st.toast(f"Your alert was triggered, details has been sent via Email.")
+
 #insertion
 #insertion2
     
