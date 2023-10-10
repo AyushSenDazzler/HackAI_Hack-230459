@@ -36,8 +36,11 @@ Before running the agents, you need to obtain the required API keys:
 #### WEATHER_API_KEY
 
 1. Visit the Weatherapi website: https://www.weatherapi.com/
+   
 2. If you don't have an account, create one by signing up.
+   
 3. Verification mail will be sent to your gmail, verify the same.
+   
 4. Once you logged into your account, you will see on top to copy your `API-Key`.
    
 ### Step-2: Set Environment Variables
